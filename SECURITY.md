@@ -1,5 +1,3 @@
-will do this tommorow.
-
 # Security Policy
 
 ## Supported Versions
@@ -9,10 +7,9 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 25.05 B | :white_check_mark: |
+| 25.04   | :x:                |
+| 25.04.1 | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
