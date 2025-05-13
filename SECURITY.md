@@ -8,8 +8,8 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 25.05 B | :white_check_mark: |
-| 25.04   | :x:                |
 | 25.04.1 | :x:                |
+| 25.04.  | :x:                |
 
 ## Reporting a Vulnerability
 
