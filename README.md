@@ -1,4 +1,11 @@
 # Cenora
+Original description will start after this announcement.
+First thing is that we will have to delay Cenora 25.05 to another month due to it not being ready,
+Also you will find messy code when we make it open-source. Note that this was never gonna go open source or anything but i 
+decided to for people to customise it to their liking, a lot of the code is not connected and stuff so expect that.
+in the later releases we will clean it up. Thanks for reading devs.
+
+
 Cenora is an Desktop Enviorment made in Scratch. Its for easy use, and good for any old pc that cant even support GNOME, or KDE.
 
 1. How to get it and run it.
