@@ -13,3 +13,6 @@ Cenora is an Desktop Enviorment made in Scratch. Its for easy use, and good for 
 4. Use Scratch as a tool and submit it on our cenorFAQandHelp@gmail.com email. Then we will add it to our marketplace.
 
 5. Thanks for reading and try Cenora!
+
+Cenora 25.07 (Originally 25.05 But changed due to delays)
+Is nearly done, expect a release in July 1st Till 27th.
