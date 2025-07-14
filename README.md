@@ -11,3 +11,4 @@ Cenora is an Desktop Enviorment made in Scratch. Its for easy use, and good for 
 
 4. Thanks for reading and try Cenora!
 
+<img width="1920" height="1080" alt="Screenshot From 2025-07-13 19-53-52" src="https://github.com/user-attachments/assets/7f08647a-ee4b-45c1-89f6-4462857fe8f5" />
