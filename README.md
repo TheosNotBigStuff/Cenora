@@ -9,10 +9,5 @@ Cenora is an Desktop Enviorment made in Scratch. Its for easy use, and good for 
 3. Once opened and done setup you will find an apps button like this
   (apps) now when you click it all of your apps will show in a grid.
 
-3. I'm a developer, how would i make apps for it?
-4. Use Scratch as a tool and submit it on our cenorFAQandHelp@gmail.com email. Then we will add it to our marketplace.
+4. Thanks for reading and try Cenora!
 
-5. Thanks for reading and try Cenora!
-
-Cenora 25.08 (Originally 25.05 But changed due to delays)
-Is nearly done, expect a release in August 1st till 11th.
