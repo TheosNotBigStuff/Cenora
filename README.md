@@ -1,4 +1,6 @@
 # Cenora
+If you're looking for Beta's of Cenora go here : https://github.com/TheosNotBigStuff/Cenora-Open-Beta
+
 Cenora is an Desktop Enviorment made in Scratch. Its for easy use, and good for any old pc that cant even support GNOME, or KDE.
 
 1. How to get it and run it.
