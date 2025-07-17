@@ -14,8 +14,8 @@ Cenora is an Desktop Enviorment made in Scratch. Its for easy use, and good for 
 1. How to get it and run it.
    If your device has windows or linux, head to our release page and download the Cenora For Windows.zip if you are on Windows and Cenora For Linux.zip if you are on Linux.
    Once you extract it click the cenora file in any file manager you are in
-2. How to use it.
-   Once opened and done setup you will find an apps button like this
+
+2. Once opened and done setup you will find an apps button like this
    (apps) now when you click it all of your apps will show in a grid.
 
 3. Thanks for reading and try Cenora!
