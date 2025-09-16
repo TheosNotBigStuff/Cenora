@@ -1,9 +1,6 @@
-# Security Policy
+# How do i help fix issues with CENORA?
 
 ## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,6 +8,6 @@ currently being supported with security updates.
 | 25.04.1 | :x:                |
 | 25.04.  | :x:                |
 
-## Reporting a Vulnerability
+## Reporting a issue
 
 Please head to the issues section of the project and i'll let you know if it's easily solved or not, due to Scratch being very buggy with some things.
