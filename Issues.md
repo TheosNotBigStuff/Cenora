@@ -1,8 +1,8 @@
 # How do i help fix issues with CENORA?
 
-## Supported Versions
+## Versions you are able to help fix.
 
-| Version | Supported          |
+| Version | Supporting fixing  |
 | ------- | ------------------ |
 | 25      | :white_check_mark: |
 | 25.04.1 | :x:                |
