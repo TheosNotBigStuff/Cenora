@@ -1,6 +1,6 @@
 # How do i help fix issues with CENORA?
 
-## Versions you are able to help fix once source code downloadable to public.
+## Versions you are able to help fix yourself once source code downloadable to public.
 
 | Version | Supporting fixing  |
 | ------- | ------------------ |
