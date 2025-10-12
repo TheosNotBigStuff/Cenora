@@ -3,7 +3,7 @@ If you're looking for Beta's of Cenora go here : https://github.com/TheosNotBigS
 
 If you're looking for Asset's of Cenora go here : https://github.com/TheosNotBigStuff/Cenora-Assets
 
-Cenora is an Desktop Enviorment made in Scratch. Its for easy use, and good for any old pc that cant even support GNOME, or KDE.
+Cenora is an Desktop Enviorment written in Scratch. Its for easy use, and good for any old pc that cant even support GNOME, or KDE.
 
 1. How to get it and run it.
    If your device has windows or linux, head to our release page and download the Cenora For Windows.zip if you are on Windows and Cenora For Linux.zip if you are on Linux.
