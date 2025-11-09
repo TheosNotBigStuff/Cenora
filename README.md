@@ -5,14 +5,14 @@ If you're looking for Asset's of Cenora go here : https://github.com/TheosNotBig
 
 Cenora is an Desktop Enviorment written in Scratch. Its for easy use, and good for any old pc that cant even support GNOME, or KDE.
 
-1. How to get it and run it.
+# How to get it and run it.
    If your device has windows or linux, head to our release page and download the Cenora For Windows.zip if you are on Windows and Cenora For Linux.zip if you are on Linux.
    Once you extract it click the cenora file in any file manager you are in
 
-2. Once opened and done setup you will find an apps button like this
+# Once opened and done setup you will find an apps button like this
    (apps) now when you click it all of your apps will show in a grid.
 
-3. Thanks for reading and try Cenora!
+# Thanks for reading and try Cenora!
 
 <img width="1920" height="1080" alt="Screenshot From 2025-07-13 19-53-52" src="https://github.com/user-attachments/assets/7f08647a-ee4b-45c1-89f6-4462857fe8f5" />
 <img width="1920" height="1080" alt="Screenshot From 2025-07-14 01-30-59" src="https://github.com/user-attachments/assets/37980156-1b09-4ab8-a495-d2b68e3a0ef7" />
