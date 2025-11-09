@@ -12,7 +12,7 @@ Cenora is an Desktop Enviorment written in Scratch. Its for easy use, and good f
 # Once opened and done setup you will find an apps button like this
    (apps) now when you click it all of your apps will show in a grid.
 
-# Thanks for reading and try Cenora!
+# Take a look at these images of the latest version
 
 <img width="1920" height="1080" alt="Screenshot From 2025-07-13 19-53-52" src="https://github.com/user-attachments/assets/7f08647a-ee4b-45c1-89f6-4462857fe8f5" />
 <img width="1920" height="1080" alt="Screenshot From 2025-07-14 01-30-59" src="https://github.com/user-attachments/assets/37980156-1b09-4ab8-a495-d2b68e3a0ef7" />
